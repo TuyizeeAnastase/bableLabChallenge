@@ -16,8 +16,10 @@ create databse and copy database link
  add PORT number and database url to enironment
  
  create .env file and add this
+ `
  PORT=<port_number>
  DATABASE_URL=<mongo database url>
+ `
    
 
 In the project directory, you can run:
